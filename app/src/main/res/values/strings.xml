@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="thank_you_for_logging">Thank you for logging</string>
+    <string name="share_to_different_app">Share to different apps</string>
+    <string name="enter_message">Enter message</string>
+    <string name="recyclerviewdemo">RecyclerViewDemo</string>
+</resources>
